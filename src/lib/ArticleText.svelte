@@ -11,12 +11,13 @@
 <style>
     .article-text {
         margin: 50vh auto;
-        width: 50%;
-        background-color: #ff99fc;
-        color: #007052;
-        border: solid #8427c9 3px;
+        width: 90%;
+        background-color: #000000;
+        color: #ffffff;
+        border: solid #000000 3px;
         border-radius: 20px;
         padding: 20px;
-        box-shadow: 16px 16px #8aa6df;
+        box-shadow: 16px 16px #000000;
+        font-size: x-large;
     }
 </style>

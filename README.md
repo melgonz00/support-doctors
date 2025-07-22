@@ -1,22 +1,6 @@
-# KWK Scrollytelling template
-
-This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
-
-## Demo
-See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/)!
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
-
-## How to clone the repo
-On this repo's homepage in GitHub, click the `Use this template` button. Select the option to create a new repository. This will create a new repo under your GitHub account.
-
-Navigate to your new copy of this template in your GitHub profile. 
-
-Clone your new repo locally and `cd` into it. 
-
-Run `npm install` and then `npm run dev` to spin up the project locally. Then, start making changes! You can use this repo as a starting point for your own final project or simply as an example. 
-
 ## Credit
 Repo created using vite (`npm create vite@6`)
+Used Kode with Klossy Scrollytelling template
+https://blackwealthdata.org/
+https://www.pewresearch.org/science/2022/04/07/black-americans-views-of-and-engagement-with-science/#:~:text=Still%2C%2055%25%20of%20Black%20adults%20say%20they%E2%80%99ve%20had%20at%20least%20one%20of%20several%20negative%20experiences%20with%20health%20care%20providers%20in%20the%20past%2C%20such%20as%20feeling%20they%20had%20to%20speak%20up%20to%20get%20the%20proper%20care%20or%20that%20the%20pain%20they%20were%20experiencing%20was%20not%20being%20taken%20seriously
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2803898?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=041423
