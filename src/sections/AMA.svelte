@@ -29,7 +29,7 @@ import ArticleText from "../lib/ArticleText.svelte";
             </ArticleText>
 
             <ArticleText>
-                The also organization required membership in a local medical society to join, 
+                The organization also required membership in a local medical society to join, 
                 and almost all local societies barred Black members, except the Washington DC chapter.<sup>10</sup>
             </ArticleText>
 
